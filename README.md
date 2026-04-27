@@ -2,7 +2,8 @@
 
 The scripts to automate everything are below.
 
-I've got a solid method to run MetaTrader 5 on Linux using Wine, with Python setup for MCP server integration. This lets you use AI assistants in a linux env.
+NOT MADE BY ME:
+Original link: https://github.com/Qoyyuum/mcp-metatrader5-server/discussions/60
 
 ## Why This Matters
 
